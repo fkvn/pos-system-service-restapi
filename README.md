@@ -1,6 +1,6 @@
-# POS System Service
+# POS System Service REST API
  
-This project implements a web API services and application (with UI) to support POS-System-for-Coffee-Shops
+This project implements a web API services support POS System.
  
 The goal of the project is to develop a server-side API services to facilitate the management process for a small-medium coffee shop. Owners can track hours, communicate with employees, and perform other tasks that will help their store run smoothtly.
  
