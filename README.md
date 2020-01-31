@@ -11,11 +11,11 @@ The main purpose is for practicing a real project by using Nodejs and Express as
  * [Data Requirements](/DataRequirements.md)
  * [Data Modeling with Relational Databases](/ERDiagram.md)
  * [SRS (Software Requirements Specification) document](/srs_document.docx)
- * [Project wiki](https://github.com/fkvn/POS-System-for-Coffee-Shops/wiki)
-   * [Home](https://github.com/fkvn/POS-System-for-Coffee-Shops/wiki)
-   * [Business Rules](https://github.com/fkvn/POS-System-for-Coffee-Shops/wiki/Business-Rules)
-   * [System Functions](https://github.com/fkvn/POS-System-for-Coffee-Shops/wiki/System-Functions)
-   * [System Features](https://github.com/fkvn/POS-System-for-Coffee-Shops/wiki/System-Features)
+ * [Project wiki](https://github.com/fkvn/pos-system-service-restapi/wiki)
+   * [Home](https://github.com/fkvn/pos-system-service-restapi/wiki)
+   * [Business Rules](https://github.com/fkvn/pos-system-service-restapi/wiki/Business-Rules)
+   * [System Functions](https://github.com/fkvn/pos-system-service-restapi/wiki/System-Functions)
+   * [System Features](https://github.com/fkvn/pos-system-service-restapi/wiki/System-Features)
 
  
  ### Prerequisites
@@ -72,11 +72,11 @@ The main purpose is for practicing a real project by using Nodejs and Express as
  
  * **Kevin Ngo** - *Initial work* - [fkvn](https://github.com/fkvn)
  
- See also the list of [contributors](https://github.com/fkvn/Hiring_process/graphs/contributors) who participated in this project.
+ See also the list of [contributors](https://github.com/fkvn/pos-system-service-restapi/graphs/contributors) who participated in this project.
  
  ## License
  
- This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/fkvn/Hiring_process/blob/master/LICENSE) file for details
+ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
  
  ## Acknowledgments
  
