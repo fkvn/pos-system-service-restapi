@@ -76,7 +76,7 @@ The main purpose is for practicing a real project by using Nodejs and Express as
  
  ## License
  
- This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/fkvn/Hiring_process/blob/master/LICENSE) file for details
+ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
  
  ## Acknowledgments
  
